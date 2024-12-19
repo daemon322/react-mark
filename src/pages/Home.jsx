@@ -125,7 +125,7 @@ const Home = () => {
   return (
     <>
       <Header />
-      <main className="flex flex-wrap pt-5 bg-sky-950 max-md:flex-wrap">
+      <main className="flex flex-wrap pt-5 bg-green-950 max-md:flex-wrap">
         <section className="w-full">
           {/* Filtro de Categorías */}
           <CategoryFilter
